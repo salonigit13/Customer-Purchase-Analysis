@@ -47,9 +47,17 @@ affect their spending behavior.
 - Spending behavior varies significantly across different age groups.
 
 ## 📊 Sample Visualizations
+
 ![Gender Distribution](outputs/gender_distribution.png)
+
 ![Age Distribution](outputs/age_distribution.png)
+
+![Income Distribution](outputs/income_distribution.png)
+
+![Age vs Spending](outputs/age_vs_spending.png)
+
 ![Income vs Spending](outputs/income_vs_spending.png)
+
 ![Correlation Heatmap](outputs/heatmap.png)
 
 ## 🚀 How to Run the Project
